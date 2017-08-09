@@ -4,15 +4,21 @@
 }
 
 .col-3 {
-    width: 33%;
+    width: 25%;
     display: inline-block;
 }
 
 .col-9 {
-    width: 66%;
+    width: 74%;
     display: inline-block;
 }
 
 .fa {
     font-size: 60px;
+}
+
+.footer {
+
+height: 50px;
+
 }
